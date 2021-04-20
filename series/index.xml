@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on 64 Bit Operating System </title>
-    <link>https://example.zainabghauri.com/series/</link>
+    <link>https://zainabghauri.github.io/quickstart/series/</link>
     <description>Recent content in Series on 64 Bit Operating System </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Cao Assignment | Zainab Ghauri | 296357 </copyright><atom:link href="https://example.zainabghauri.com/series/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Cao Assignment | Zainab Ghauri | 296357 </copyright><atom:link href="https://zainabghauri.github.io/quickstart/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 64 Bit Operating System </title>
-    <link>https://example.zainabghauri.com/posts/</link>
+    <link>https://zainabghauri.github.io/quickstart/posts/</link>
     <description>Recent content in Posts on 64 Bit Operating System </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Cao Assignment | Zainab Ghauri | 296357 </copyright>
-    <lastBuildDate>Sat, 17 Apr 2021 22:04:16 +0500</lastBuildDate><atom:link href="https://example.zainabghauri.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Apr 2021 22:04:16 +0500</lastBuildDate><atom:link href="https://zainabghauri.github.io/quickstart/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Assignment</title>
-      <link>https://example.zainabghauri.com/posts/my-first-post/</link>
+      <link>https://zainabghauri.github.io/quickstart/posts/my-first-post/</link>
       <pubDate>Sat, 17 Apr 2021 22:04:16 +0500</pubDate>
       
-      <guid>https://example.zainabghauri.com/posts/my-first-post/</guid>
+      <guid>https://zainabghauri.github.io/quickstart/posts/my-first-post/</guid>
       <description></description>
     </item>
     

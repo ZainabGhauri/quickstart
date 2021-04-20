@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>64 Bit Operating System </title>
-    <link>https://example.zainabghauri.com/</link>
+    <link>https://zainabghauri.github.io/quickstart/</link>
     <description>Recent content on 64 Bit Operating System </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Cao Assignment | Zainab Ghauri | 296357 </copyright>
-    <lastBuildDate>Mon, 19 Apr 2021 15:07:24 +0500</lastBuildDate><atom:link href="https://example.zainabghauri.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Apr 2021 15:07:24 +0500</lastBuildDate><atom:link href="https://zainabghauri.github.io/quickstart/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Profile</title>
-      <link>https://example.zainabghauri.com/post/test/</link>
+      <link>https://zainabghauri.github.io/quickstart/post/test/</link>
       <pubDate>Mon, 19 Apr 2021 15:07:24 +0500</pubDate>
       
-      <guid>https://example.zainabghauri.com/post/test/</guid>
+      <guid>https://zainabghauri.github.io/quickstart/post/test/</guid>
       <description>Name : Zainab Ghauri Cms Id : 296357 Class : BS-CS ( 9-A ) CAO-Assignment : (1+2+3)    Description :   I am a CS student at SEECS, NUST . Currently , i am in sophomore year and my current Cgpa is 3.66/4.0 . I am a hard working and a determined person. Also I haven&amp;rsquo;t done any internship yet but i did two courses from coursera this lockdown , one is Google-IT and the other Basics of Web devolpment    Accounts :  1.</description>
     </item>
     
     <item>
       <title> Task 1 : 64 Bit OS-Kernel</title>
-      <link>https://example.zainabghauri.com/post/my-second-post/</link>
+      <link>https://zainabghauri.github.io/quickstart/post/my-second-post/</link>
       <pubDate>Mon, 19 Apr 2021 14:58:00 +0500</pubDate>
       
-      <guid>https://example.zainabghauri.com/post/my-second-post/</guid>
+      <guid>https://zainabghauri.github.io/quickstart/post/my-second-post/</guid>
       <description>Description :   64 Bit Operating System :   We are making a 64 bit Operating System from the scratch . In this assignment we will make x86 compatible Operating System that is multi boot 2 and then on later on stage ( In Task 2 ) we will expand it to other architecture. This Operating System is primarily written in a C and C++ programming language ( Mingw64 is installed to run these ) but we also used assembly language in some part of our code where we need hardware specific coding.</description>
     </item>
     
     <item>
       <title>Assignment</title>
-      <link>https://example.zainabghauri.com/posts/my-first-post/</link>
+      <link>https://zainabghauri.github.io/quickstart/posts/my-first-post/</link>
       <pubDate>Sat, 17 Apr 2021 22:04:16 +0500</pubDate>
       
-      <guid>https://example.zainabghauri.com/posts/my-first-post/</guid>
+      <guid>https://zainabghauri.github.io/quickstart/posts/my-first-post/</guid>
       <description></description>
     </item>
     
